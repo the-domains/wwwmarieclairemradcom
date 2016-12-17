@@ -1,0 +1,25 @@
+typography_spectrum: 0.8761123970616609
+color:
+  brandStrength: 0.31505626859143376
+  lightness: 0.56039480259642
+  saturation: 0.9956698585301638
+  rhythmicContrast: 0.021234179148450494
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.9331037206575274
+author:
+  name: MC MRAD
+name: www.marieclairemrad.com
+url: 'http://marieclairemrad.com'
+title: MC WEBSITE
+content: []
+description: COMING SOON PAGE
+purpose:
+  - type: contact
+    url: 'tel:+9613777400'
+    label: Call +9613777400
